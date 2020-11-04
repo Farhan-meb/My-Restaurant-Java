@@ -11,3 +11,4 @@ This is a desktop application for restaurant managers to keep their daily works 
 - ⚡ User can update if any orders is already delivered or pending currently
 - ⚡ For refreshments, user can play a game that is inside the software :D
 - ⚡ Used : Java Swing, MySql
+😕
