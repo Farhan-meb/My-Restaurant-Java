@@ -13,5 +13,5 @@ This is a desktop application for restaurant managers to keep their daily works 
 - ⚡ Used : Java Swing, MySql
 
 ## Images
-https://github.com/Farhan-meb/Project-200/blob/master/48424314_2084099518349894_5208630577866997760_n.jpg
+(https://github.com/Farhan-meb/Project-200/blob/master/48424314_2084099518349894_5208630577866997760_n.jpg)
 
